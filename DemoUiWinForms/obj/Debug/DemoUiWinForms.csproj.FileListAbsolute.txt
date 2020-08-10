@@ -1,0 +1,22 @@
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csprojAssemblyReference.cache
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.Form1.resources
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.Properties.Resources.resources
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csproj.GenerateResource.cache
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.exe.config
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.exe
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.pdb
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.exe
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.pdb
+C:\Users\Section 9\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.PasswordValidation.resources
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csprojAssemblyReference.cache
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.exe
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.pdb
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.exe.config
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.exe
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\bin\Debug\DemoUiWinForms.pdb
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.Form1.resources
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.PasswordValidation.resources
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.Properties.Resources.resources
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csproj.GenerateResource.cache
+C:\Users\Jaron\source\repos\DemoUiWinForms\DemoUiWinForms\obj\Debug\DemoUiWinForms.csproj.CoreCompileInputs.cache
